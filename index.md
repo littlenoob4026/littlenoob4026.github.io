@@ -20,7 +20,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Github简明教程](http://www.runoob.com/w3cnote/git-guide.html) and ![Image](src)
+[editor on GitHub](https://github.com/littlenoob4026/littlenoob4026.github.io/edit/master/index.md) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
