@@ -18,12 +18,9 @@ Syntax highlighted code block
 - 个人网页，无需代码
 - 简单操作
 
-1. Numbered
-2. List
-
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Github简明教程](http://www.runoob.com/w3cnote/git-guide.html) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
