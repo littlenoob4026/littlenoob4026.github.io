@@ -15,8 +15,8 @@ Syntax highlighted code block
 ## 网页制作
 ### 网页制作教程
 
-- Bulleted
-- List
+- 个人网页，无需代码
+- 简单操作
 
 1. Numbered
 2. List
