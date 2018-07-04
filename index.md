@@ -20,10 +20,10 @@ github是真的很不错的搭建个人网站的工具
 
 **Bold** and _Italic_ and `Code` text
 
-[本网站地址](https://github.com/littlenoob4026/littlenoob4026.github.io/edit/master/index.md) and ![Image](src)
+[本网站地址](https://github.com/littlenoob4026/littlenoob4026.github.io/edit/master/index.md) [姓名](王大锤)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+更多细节见 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
