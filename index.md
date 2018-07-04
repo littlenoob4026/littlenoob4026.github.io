@@ -17,7 +17,7 @@ github是真的很不错的搭建个人网站的工具
 
 - 个人网页，无需代码
 - 简单操作
-
+图片？ [v](更多细节见 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 **Bold** and _Italic_ and `Code` text
 
 [本网站地址](https://github.com/littlenoob4026/littlenoob4026.github.io/edit/master/index.md) [姓名](王大锤)
