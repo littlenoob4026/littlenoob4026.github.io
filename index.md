@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 这个东西蛮有趣的
 
 You can use the [editor on GitHub](https://github.com/littlenoob4026/littlenoob4026.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
