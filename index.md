@@ -25,10 +25,10 @@ github是真的很不错的搭建个人网站的工具
 
 更多细节见 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### 期末有什么感受？
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/littlenoob4026/littlenoob4026.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+别瞎开心了，你还有短学期呢！！ [短学期详情](http://www.hdu.edu.cn/). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### 下个学期有啥感受
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我再也不会不好好学习了，通宵学习真的好累啊！！！ [Dota](http://www.dota2.com.cn/index.htm) 或者 [LoL](http://lol.qq.com/) 先爽快了再说！！
