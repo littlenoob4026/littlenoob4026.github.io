@@ -1,8 +1,8 @@
 ## 这个东西蛮有趣的
 
-You can use the [editor on GitHub](https://github.com/littlenoob4026/littlenoob4026.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你可以用 [百度知道](https://www.baidu.com/) 来完成很多任务
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+哔哩哔哩网站也有很多大神， [bilibili](https://www.bilibili.com/) 有很多教程
 
 ### Markdown
 
