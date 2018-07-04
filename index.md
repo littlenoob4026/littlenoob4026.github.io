@@ -7,7 +7,7 @@
 ### 最后一次作业
 
 github是真的很不错的搭建个人网站的工具
-
+图片？ [V](https://www.baidu.com/) 来完成很多任务
 ```markdown
 我在做什么
 
@@ -17,7 +17,7 @@ github是真的很不错的搭建个人网站的工具
 
 - 个人网页，无需代码
 - 简单操作
-图片？ [v](更多细节见 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 **Bold** and _Italic_ and `Code` text
 
 [本网站地址](https://github.com/littlenoob4026/littlenoob4026.github.io/edit/master/index.md) [姓名](王大锤)
